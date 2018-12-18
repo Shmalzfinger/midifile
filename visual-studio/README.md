@@ -10,7 +10,7 @@ by default, but this can be changed.
 
 As new programs are added to /src-programs, corresponding project
 files should be created for them in this directory, and then added
-to midifile.sln. The easiest was of creating a new project file
+to midifile.sln. The easiest way of creating a new project file
 is to copy an existing project file and then rename all occurrences
 of the old name with the new one.
 
